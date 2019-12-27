@@ -9,6 +9,7 @@ import java.util.Random;
  */
 public class T05 {
     public static void main(String[] args) {
+        String s = "abd";
         long maxMemory = Runtime.getRuntime().maxMemory();
         long totalMemory = Runtime.getRuntime().totalMemory();
 //        List strList = new ArrayList();  //jvm竟然不爆  //**
