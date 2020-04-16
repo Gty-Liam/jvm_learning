@@ -2,7 +2,7 @@ package pers.liam.jvm_learning;
 
 import com.sun.org.apache.bcel.internal.classfile.Code;
 
-class  Code01{
+class Code01{
     public Code01(){
         System.out.println("Code01's constructor 111");
     }
